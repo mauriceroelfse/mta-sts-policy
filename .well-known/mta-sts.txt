@@ -1,6 +1,6 @@
 version: STSv1
 mode: enforce
-mx.spamexperts.com
-mx.fallbackmx.spamexperts.eu
-mx.lastmx.spamexperts.net
+mx: spamexperts.com
+mx: fallbackmx.spamexperts.eu
+mx: lastmx.spamexperts.net
 max_age: 31536000
