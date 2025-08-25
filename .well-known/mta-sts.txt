@@ -1,10 +1,6 @@
 version: STSv1
 mode: enforce
-mx: exmail.work
-mx: nmail1.exmail.work
-mx: nmail2.exmail.work
-mx: nmail3.exmail.work
-mx: nmail4.exmail.work
-mx: nmail5.exmail.work
-mx: nmail6.exmail.work
+mx: mx.spamexperts.com
+mx: fallbackmx.spamexperts.eu
+mx: lastmx.spamexperts.net
 max_age: 31536000
