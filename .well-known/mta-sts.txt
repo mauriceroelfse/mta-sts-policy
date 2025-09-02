@@ -1,6 +1,5 @@
 version: STSv1
 mode: enforce
-mx: mx.spamexperts.com
-mx: fallbackmx.spamexperts.eu
-mx: lastmx.spamexperts.net
+mx: mxa.mailgun.org
+mx: mxb.mailgun.org
 max_age: 31536000
